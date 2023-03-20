@@ -1,0 +1,11 @@
+1. Add first in a linklist
+2. Add last in a linklist
+3. Add at in a linklist
+4. Remove first in a linklist
+5. Remove last in a linklist
+6. Remove At a linklist
+7. Print linklist
+8. Length of linklist
+9. Search k in a linklist
+10. Mid of linklist
+11. lp lp lp lp lp
