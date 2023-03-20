@@ -1,0 +1,10 @@
+Q1. Introduce your self?
+Ans :- My name is Anurag, i am python Developer working with Q LAB TECHNOLOGIES PRIVATE LIMITED ON Post prodduction Team. our team is responsible for maintaing client website after delveloping and ensuring that new requirements are incorporated semlessy.
+I have extensive exprience working with the Django, Api, Mysqol, Docker and have several successful projects.
+I hold a diploma in mechanical engineering, where i developed a keen interest led me to learn coding and software develoments and i have since grow to enjoy a staisfying carrer as a python developer.
+
+Q2. what is your greatest strength?
+Ans :- Apart from my work, I also attend session on the architectural frameworks of big companies delevired by lead developer. It is insipiry to hear about a company growth and goals , and i find it beneficial to stay up to date with industry trends.
+
+Q9. why do you want to leave your current role?
+Ans :- While, I enjoy my current job, i feel that the tasks can sometimes become repetitive, and the there is limited customer interaction.I am eager to work on more challenging projects that can have a significant impact on customers. Thus i am considering a job switch to utilize my knowledge for greater impact.
