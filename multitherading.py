@@ -8,8 +8,6 @@ class A(Thread):
             sleep(2)
             
 
-
-
 class B(Thread):
     def name1(self):
         for i in range(5):
