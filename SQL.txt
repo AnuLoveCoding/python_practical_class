@@ -1,0 +1,4 @@
+select col1, col2, col2 , from table where cities = 'patna' or cities = 'pune';
+
+
+select col1, col2 from table order by col1, col2  Asc or order by col1, col2 DESC;
